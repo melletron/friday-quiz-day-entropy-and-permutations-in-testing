@@ -31,7 +31,7 @@ The team that maintains and runs the applications have put all customer journeys
 We found out that the developers have been cheating when writing their unit tests, making them unreliable. Therefore, the test manager decided to switch them all
  off and compensate for them with other tests. The complexity, however, remains the same.
 
-### Q2a: How many tests need to run to measure the full complexity of the system?
+### Q2a: Now that you have to test the full complexity of the system throught the functional components. How many tests do you need to run to get every possible permutation covered in a test - measuring the full complexity of the system?
 ### Q2b: Where did the test manager move the test load to?
 
 ## Event two: no component tests
