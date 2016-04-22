@@ -37,5 +37,5 @@ We found out that the developers have been cheating when writing their unit test
 ## Event two: no component tests
 A disaster happened, the test tooling for functional component testing cannot be used anymore. So we can only test the full complexity of the system through the system tests.
 
-### Q3: How many tests need to run at system level to measure the full complexity of the system?
+### Q3: How many tests need to run at system level to measure the full complexity of the system (i.e. calculate all possibule states of the system)?
 ### Bonus question: What would you do to regain the confidence in the reliability of the system and the quality of the code?
