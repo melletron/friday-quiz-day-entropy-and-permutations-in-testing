@@ -15,7 +15,7 @@ System: **5 = 5**<br/>
 **143 x 143 x 153 x 75 x 4 x 5 = 4,693,045,500**<br/>
 
 **Bonus**:<br/>
-Now in the real world some things never happen:
+Now in the real world some things never happen:<br/>
 1. You can’t have the system in all possible states<br/>
 2. You don’t need the system in all possible states<br/>
 3. You always have some level of testing on each level<br/>
